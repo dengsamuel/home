@@ -1,0 +1,46 @@
+/*name of selector makes it easier to tell what element it is selecting*/
+.double
+{
+	border-style: double;
+}
+.center 
+{
+	text-align: center;
+}
+.left 
+{
+	text-align: left;
+}
+body
+{
+	font-size: 125%;
+	font-family: "comic sans ms", "comic sans", "arial";
+	background-image: url(images/vintagebg.png);
+}
+ul
+{
+	list-style-type: disc;
+}
+#ketchup
+{
+	float: right;
+	width: 225px;
+	height: 225px;
+}
+#logo
+{
+	float: left;
+	width: 125px;
+	height: 140px;
+}
+#tcontents
+{
+	border-style: solid;
+	border-width: 5px;
+}
+#tableimage
+{
+	display: block;
+	margin: auto;
+	width: 40%
+}

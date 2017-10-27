@@ -1,0 +1,44 @@
+/*name of selector makes it easier to tell what element it is selecting*/
+body
+{
+	background-image: url(images/checkerbg.jpg);
+	background-size: cover;
+	color: white;
+	font-size: 125%;
+	background-position: center;
+}
+.center 
+{
+	text-align: center;
+}
+.left 
+{
+	text-align: left;
+}
+.double
+{
+	border-style: double;
+}
+#logo
+{
+	float: left;
+	width: 175px;
+	height: 175px;
+}
+#tcontents
+{
+	border-style: solid;
+	border-width: 5px;
+}
+#sriracha
+{
+	float: right;
+	width: 300px;
+	height: 225px;
+}
+#origin
+{
+	float: right;
+	width: 300px;
+	height: 175px;
+}

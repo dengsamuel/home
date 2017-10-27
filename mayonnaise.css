@@ -1,0 +1,44 @@
+/*name of selector makes it easier to tell what element it is selecting*/
+body
+{
+	background-image: url(images/marblebg.jpg);
+	color: black;
+	font-size: 125%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-position: center;
+}
+.center 
+{
+	text-align: center;
+}
+.left 
+{
+	text-align: left;
+}
+.double
+{
+	border-style: double;
+}
+#mayonnaise
+{
+	width: 200px;
+	height: 200px;
+	float: right;
+}
+#logo
+{
+	width: 150px;
+	height: 100px;
+	float: left;
+}
+#port
+{
+	float: left;
+	width: 250px;
+	height: 150px;
+}
+#tcontents
+{
+	border-style: solid;
+	border-width: 5px;
+}

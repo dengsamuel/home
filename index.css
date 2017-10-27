@@ -1,0 +1,49 @@
+/*name of selector makes it easier to tell what element it is selecting*/
+h1 
+{
+	text-align: center;
+}
+h2 
+{
+	text-align: center;
+}
+#ketchup 
+{
+	width: 300px;
+	height: 300px;
+}
+#mayonnaise 
+{
+	text-align: right;
+	width: 325px;
+	height: 300px
+}
+#sriracha 
+{
+	text-align: center;
+	width: 400px;
+	height: 300px;
+}
+.center 
+{
+	text-align: center;
+}
+.left 
+{
+	text-align: left;
+}
+.right 
+{
+	text-align: right;
+}
+.bg
+{
+	background-image: url("images/indexbackground.jpg");
+}
+body
+{
+	color: white;
+	font-size: 150%;
+	font-family: "comic sans ms", "comic sans", "arial";
+}
+	
